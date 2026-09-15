@@ -1,0 +1,24 @@
+{
+  "name": "prison-escape-game",
+  "version": "1.0.0",
+  "description": "An interactive text-based escape room game playable through Node.js or Copilot chat",
+  "main": "game.js",
+  "type": "module",
+  "scripts": {
+    "start": "node game.js",
+    "play": "node game.js"
+  },
+  "keywords": [
+    "escape-room",
+    "puzzle",
+    "game",
+    "interactive",
+    "text-adventure",
+    "copilot"
+  ],
+  "author": "micah725",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
